@@ -37,8 +37,11 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 <h4>Meta</h4>
+
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
 ![Mixed Reality](https://img.shields.io/badge/Mixed%20Reality-0072C6?style=for-the-badge&logo=microsoft&logoColor=white)
+
 ![Augmented Reality](https://img.shields.io/badge/Augmented%20Reality-FF6F00?style=for-the-badge&logo=augmented-reality&logoColor=white)
 
 <h4>Others</h4>
